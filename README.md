@@ -3,4 +3,4 @@
 - Gosto de entreterimento e música.
 - Procuro aprender Python, criação de jogos e design.
 - Pretendo me aprofundar em Análise de Dados mas tembém almejo trabalhar dentre várias áreas de TI.
--  ==========================================//============================================= 
+-  =================================//================================
